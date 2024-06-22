@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 import codecs
 import os
 
-VERSION = '0.0.2'
+VERSION = '1.0.0'
 DESCRIPTION = 'Real-time currency converter'
 # Setting up
 setup(
